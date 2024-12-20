@@ -99,8 +99,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node server.js",
-    "build": "npm run build"
+    "start": "node server/server.js"
   },
   "keywords": [],
   "author": "",
